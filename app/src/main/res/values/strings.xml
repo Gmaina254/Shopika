@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shopika</string>
+    <string name="name">Name</string>
+    <string name="no_record">NO SHOPPING, LET\'S SHOP!</string>
+    <string name="add_item">ADD ITEMS TO SHOP</string>
+    <string name="add_items">ADD ITEM</string>
+    <string name="items">TODAY\'S SHOPPING LIST!</string>
+    <string name="price">PRICE</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="item">ITEM</string>
+    <string name="today_Item">ITEM</string>
+    <string name="item_quantity">QUANTITY</string>
+    <string name="item_Price">PRICE</string>
+    <string name="txtToday">Today\'s Shopping List</string>
+    <string name="saveItem">SAVE</string>
+    <string name="welcome">HEY BUDDY LET\'S SHOP!</string>
+    <string name="delete">DELETE</string>
+</resources>
